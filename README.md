@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---------------------------------
 About this pipeline
 ------------------------------
@@ -80,3 +81,7 @@ TRIM/MIRDEEP_MAPPER/MIRDEEP2_run3/DESEQINT/MiRNA_LF_DM.1.csv
 TRIM/MIRDEEP_MAPPER/MIRDEEP2_run3/DESEQINT/02-01-2018.16-44-24.log
 
 ---------------------------------
+=======
+# WV-INBRE-Bioinformatics-miRNA_differential_expression
+miRNA analysis using miRDeep2 and DESeq2 in R
+>>>>>>> b79ff5c9a098ccde6c2a785a3f6d33c1593c477a
